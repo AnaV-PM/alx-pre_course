@@ -1,2 +1,1 @@
-ALX-pre_course
-It’s time to code!
+I am a Software Engineer
